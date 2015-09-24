@@ -1,4 +1,4 @@
-MUSICFUN
+MusicStreaming
 ========
 
-Music Streaming Website 
+Media Streaming Website 
