@@ -27,7 +27,7 @@ MusicStreaming
 / 5. Provide standard features of creating a playlist, upvoting a song, giving comments, listining to songs and videos etc.
 
 
----------------------------------------------------------------[ SETUP ]-- 
+----[ SETUP ]----
 
 Importing Project into eclipse:
 
@@ -39,7 +39,7 @@ Importing Project into eclipse:
 
 	  root directory to folder contents of zip were extracted to -> Finish
 
-  3. Create database using eclipse JPA feature of generating database using entities.
+       3. Create database using eclipse JPA feature of generating database using entities.
 
 Feel free to use another IDE or manually compile and run your programs.
 
