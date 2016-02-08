@@ -1,7 +1,8 @@
 MusicStreaming
 ========
+/ Authored by Abhishek Nigam, Gaurav Manchanda, Kunal Kohli, Abhishek Kumar and Anurag Singhal:
 
-/-------------------------------------------------------------------------
+/ Date: 20/02/2013
 
 / Starter Code and GUI Application for a Media Streaming Website using
 
@@ -9,10 +10,7 @@ MusicStreaming
 
 / Oracle DB
 
-/
--------------------------------------------------------------------------
-
----------------------------------------------------------[ DESCRIPTION ]--
+-------------[ DESCRIPTION ]---------------
 / MUSIC ONE-CDAC Project on devloping a Media Streaming Website. The project explores following agendas :- 
 
 / 1. Understanding streaming using HTML5 audio & video tag. 
@@ -27,19 +25,6 @@ MusicStreaming
 
 / 5. Provide standard features of creating a playlist, upvoting a song, giving comments, listining to songs and videos etc.
 
-/
-
-/ Authored by Abhishek Nigam, Gaurav Manchanda, Kunal Kohli, Abhishek Kumar and Anurag Singhal:
-
-/ 
-
-/ 
-
-/
-
-/ Date: 20/02/2013
-
-/
 
 ---------------------------------------------------------------[ SETUP ]-- 
 
