@@ -1,4 +1,4 @@
-MusicStreaming
+MediaStreaming
 ========
 / Authored by Abhishek Nigam, Gaurav Manchanda, Kunal Kohli, Abhishek Kumar and Anurag Singhal:
 
@@ -12,7 +12,7 @@ MusicStreaming
 
 -------------[ DESCRIPTION ]---------------
 
-/ MUSIC ONE-CDAC Project on devloping a Media Streaming Website. The project explores following agendas :- 
+/ Media ONE-CDAC Project on devloping a Media Streaming Website. The project explores following agendas :- 
 
 / 1. Understanding streaming using HTML5 audio & video tag. 
 
