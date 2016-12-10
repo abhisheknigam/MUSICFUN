@@ -10,9 +10,11 @@ MediaStreaming
 
 / Oracle DB
 
+MediaOne is a platform envisioned for sharing of multimedia content amongst students/faculties and across universities. The web application included several cutting edge features like playlist creation, recommendations, one search and user security etc.
+
 -------------[ DESCRIPTION ]---------------
 
-/ Media ONE-CDAC Project on devloping a Media Streaming Website. The project explores following agendas :- 
+/ MediaOne - CDAC Project on devloping a Media Streaming Website. The project explores following agendas :- 
 
 / 1. Understanding streaming using HTML5 audio & video tag. 
 
